@@ -13,4 +13,4 @@ A simple yet powerful **C program** that performs arithmetic and scientific calc
 - Power, Square Root, Logarithms, Trigonometric functions (sin, cos, tan)  
 - Factorial and Exponential calculations  
 - Handles invalid input with error messages
-![Scientific Calculator Screenshot1](scientific_calculator/screenshot.png
+![Scientific Calculator Screenshot](scientific_calculator1/screenshot.png)
